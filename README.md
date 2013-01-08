@@ -8,6 +8,7 @@ What's this library all about?
 
 Features:
 ---------
-- *transparent:* uncommenting a single line will just fallback on the dafult logging
+- *transparent:* uncommenting a single line will just fallback to the default logging
 - *filterable:* by default you only see the logging you want to see:
-    LOG=main,worker node app.js
+	
+	LOG=main,worker node app.js
