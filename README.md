@@ -65,4 +65,4 @@ Let's show this in an example... our app.js is:
 	
 This will output:
 
-![My image](JochenSzostek.github.com/prefabLOG/img/screenshot1.png)
+![My image](https://raw.github.com/JochenSzostek/prefabLOG/master/img/screenshot1.png)
